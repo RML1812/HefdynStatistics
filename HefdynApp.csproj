@@ -7,6 +7,10 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>Letter_H_blue_34993.ico</ApplicationIcon>
+    <Authors>RML1812</Authors>
+    <Company>Hefdyn</Company>
+    <Title>Hefdyn Statistics</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
