@@ -28,8 +28,6 @@ Follow these steps to install HefdynStatistics on your computer:
 
 ## Documentation
 
-Below is a placeholder for a screenshot of the application:
-
 ![HefdynStatistics Screenshot_1.0.0.0](docs/ss-1.0.0.0.png)
 
 ## Usage
